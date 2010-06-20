@@ -443,7 +443,7 @@ function view() {
 
 	$template->set('answers',$answers);
 
-	$basePathNS = basePathNS();
+//	$basePathNS = basePathNS();
 
 	$js = '';
 

@@ -4,6 +4,11 @@ function generateLink($controller,$action) {
 	return BASE_PATH.'/'.$controller.'/'.$action;
 }
 
+function db() {
+	mysql_connect(SERVERNAME.':'.SERVERPORT, DBUSERNAME, DBPASSWORD);
+	mysql_select_db(DBNAME);
+}
+
 function authenticate($force = 0) {
 	global $template;
 	global $controller;
@@ -26,9 +31,11 @@ function authenticate($force = 0) {
 
 
 	if (($force == 1 || ALLOW_VISITORS ) && $loggedin == 0 && ($controller != 'users' && ($action != 'validate' || $action != 'create' || $action != 'register'))) {
-		$template->overrideController('users');
-		$template->overrideAction('login');
-		$template->set('link',getLink());
+		if(isset($template)) {
+			$template->overrideController('users');
+			$template->overrideAction('login');
+			$template->set('link',getLink());
+		}
 		$controller = "users";
 		$action = "login";
 	}

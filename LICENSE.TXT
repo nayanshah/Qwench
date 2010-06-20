@@ -1,7 +1,7 @@
 Qwench
-Copyright (c) 2009-2010 Inscripts
+Copyright (c) 2010 Webizards
 
-Qwench ('the Software') is a copyrighted work of authorship. Inscripts 
+Qwench ('the Software') is a copyrighted work of authorship. Webizards 
 retains ownership of the Software and any copies of it, regardless of the 
 form in which the copies may exist.
 
@@ -18,7 +18,7 @@ Package, a Modified Package, or a derivative of this Package.
 Such agreement is either on your own behalf or on behalf
 of any corporate entity which employs you or which you represent
 ('Corporate Licensee'). In this Agreement, 'you' includes both the reader
-and any Corporate Licensee and 'Inscripts' means Inscripts (I) Private Limited:
+and any Corporate Licensee and 'Webizards' means Webizards (I) Private Limited:
 
 1. Permission is hereby granted to use, copy, modify and/or distribute this 
 Package, provided that: 
@@ -33,7 +33,7 @@ released under any paid license. Copying fees for the transport of this Package,
 support fees for installation or other services, and hosting fees for hosting 
 the Software may, however, be imposed.
 d. Any Distribution of this Package, whether as a Modified Package or not, 
-requires express written consent from Inscripts.
+requires express written consent from Webizards.
 
 2.You may make Modifications to this Package or a derivative of it, and 
 distribute your Modifications in a form that is separate from the Package,
@@ -42,12 +42,12 @@ such as patches. The following restrictions apply to Modifications:
 a. A Modification must not alter or remove any copyright notices in the 
 Software or Package, generated or otherwise.
 b. When a Modification to the Package is released, a non-exclusive 
-royalty-free right is granted to Inscripts to distribute the Modification in 
+royalty-free right is granted to Webizards to distribute the Modification in 
 future versions of the Package provided such versions remain available under 
 the terms of this Agreement in addition to any other license(s) of the initial 
 developer.
 c. Any Distribution of a Modified Package or derivative requires express 
-written consent from Inscripts.
+written consent from Webizards.
 
 3.Permission is hereby also granted to distribute programs which depend on 
 this Package, provided that you do not distribute any Modified Package 
@@ -61,7 +61,7 @@ engaging in any activity that infringes or misappropriates the intellectual prop
 rights of others, including copyrights, trademarks, service marks, trade secrets, 
 software piracy, and patents held by individuals, corporations, or other entities. 
 
-If any of the terms of this Agreement are violated, Inscripts reserves the right 
+If any of the terms of this Agreement are violated, Webizards reserves the right 
 to revoke the Software license at any time. 
 
 The above copyright notice and this permission notice shall be included in
